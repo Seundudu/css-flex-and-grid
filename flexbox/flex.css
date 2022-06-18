@@ -1,0 +1,76 @@
+html{
+    box-sizing: border-box;
+    justify-content: center;
+    margin: 15% auto;
+}
+body{
+    font-size: 15px;
+    font-family: ;
+}
+main{
+    margin: auto;
+    width: 720px;
+    display: flex;
+    justify-content: center;
+    color: hsl(0, 105, 112);
+}
+img{
+    width: 20%;
+    overflow: hidden;
+    height: depends ;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(fonts.google.com/specimen/Lexend+Deca);
+    font-weight: 400;
+}
+@font-face {
+    font-family: mySecondFont;
+    src: url(fonts.google.com/specimen/Big+Shoulders+Display);
+    font-weight: 700;
+}
+.SEDAN{
+    background-image: url(flex1.png);
+    background-color: rgb(227, 136, 38);
+    background-blend-mode: none;
+}
+.sedans{
+    background-color: rgb(227, 136, 38);
+    padding: 5% 4%;
+}
+.suvs{
+    background-color: rgb(0, 105, 112);
+    padding: 5%;
+}
+.luxuries{
+    background-color: rgb(0, 66, 65);
+    padding: 5%;
+}
+p{
+    color: rgba(255, 255, 255, 0.75);
+    margin-bottom: 5%;
+    padding-bottom: 7%;
+    font-family: mySecondFont;
+}
+h1{
+    color: rgb(242, 242, 242);
+    font-family: mySecondFont;
+}
+button{
+    width: 70%;
+    padding: 5%;
+    border-radius: 20px;
+    margin-top: 5%;
+    color: rgb(242, 242, 242);
+    border-color: rgb(242, 242, 242);
+    font-family: myFirstFont;
+}
+.one{
+    background-color: #e38826;
+}
+.two{
+    background-color: rgb(0, 105, 112);
+}
+.three{
+    background-color: rgb(0, 66, 65);
+}
