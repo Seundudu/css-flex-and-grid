@@ -5,7 +5,6 @@ html{
 }
 body{
     font-size: 15px;
-    font-family: ;
 }
 main{
     margin: auto;
@@ -43,7 +42,7 @@ img{
     padding: 5%;
 }
 .luxuries{
-    background-color: rgb(0, 66, 65);
+    background-color: #004241;
     padding: 5%;
 }
 p{
